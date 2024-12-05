@@ -1,27 +1,48 @@
-## Title
+# null
 
-readme generator
+## Title
+Flying Made Easy
 
 ## Description
+This program takes the stress out of actually flying an airplane
 
-generates a readme
+## Table of Contents (optional if you have more less than 3 sections)
 
-## Table of Contents
+-installation, -usage, -credits, -license
 
-1. table 2 contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Credits](#credits)
 
 ## Installation
-
-simply wrige node index
+First open your integrated terminal, second answer questions, three start flying 
 
 ## Usage
+First turn on the airplane, second read the avionic code manuel, Third buy a simulator, fourth, take flight instruction from a pilot
 
-simply type in aswers
+![screenshot](./assets/images/screenshot.png)
+
+## Features
+undefined
 
 ## Credits
 
-LINK to colab
+Give credit to where credit is due
 
-## License
+[GitHub Profile](https://www.github.com/username)
 
-MIT
+## License 
+*If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).*
+Get a coply of your pilots license
+
+## How to Contribute
+*If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.cont
+Provide addition information on how people may help you learn to fly
+
+## Tests
+test your skills by actually flying a plane
+
+## Questions 
+* If you have questions about the application, you can contact me via my GitHub profile: [GitHub Profile](https://www.github.com/username)
+For further information on flying please see your local airport
