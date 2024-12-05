@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Professional README Generator",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
     "marked": "^15.0.3"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }

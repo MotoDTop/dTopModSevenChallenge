@@ -1,37 +1,27 @@
-# dTopModSevenChallenge
-Professional README Generator
+## Title
 
+readme generator
 
-#<${title}>
+## Description
 
-##Description
-${description},
+generates a readme
 
+## Table of Contents
 
+1. table 2 contents
 
-##Table of Contents
-${answers.tableOfContents.replace(/\n/g, '\n- ')} 
-${tableOfContents},
+## Installation
 
-##Installation
-${installation}
+simply wrige node index
 
-##Usage
-${usage},
+## Usage
 
+simply type in aswers
 
-##Credits
+## Credits
 
+LINK to colab
 
-##License
-${license},
+## License
 
-
-Contributing
-${howToContribute}
-
-Tests
-${tests},
-
-Questions
-${Questions}
+MIT
